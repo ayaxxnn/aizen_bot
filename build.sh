@@ -1,0 +1,3 @@
+#!/bin/bash
+pip install python-telegram-bot==13.7
+pip install -r requirements.txt
