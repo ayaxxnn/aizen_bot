@@ -1,3 +1,5 @@
+import os
+os.system("pip install python-telegram-bot==13.7 --user")
 from flask import Flask
 import telebot
 import threading
